@@ -1,0 +1,14 @@
+#list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: left;
+    margin-bottom: 15px;
+}
+#listName {
+    font-size: 20px;
+}
+#productContainer {
+    display: flex;
+    flex-direction: row;
+}

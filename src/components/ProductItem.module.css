@@ -1,0 +1,36 @@
+#listItem {
+    width: 200px;
+    height: 300px;
+    padding: 3% 1% 1% 1%;
+    font-size: 21px;
+    border-right: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+    /*position: relative;*/
+    /*text-align: left;*/
+}
+#productImg {
+    height: 140px;
+    max-width: 100%;
+
+}
+#productName, #old {
+    margin: 8px 0;
+}
+#old {
+    color: gray;
+    font-size: 14px;
+    text-decoration: line-through;
+    margin-bottom: 0;
+}
+#sale {
+    color: red;
+    font-size: 21px;
+    margin-top: 0;
+}
+#bold {
+    font-weight: bold;
+}
+#productContainer {
+    position: relative;
+    text-align: left;
+}
